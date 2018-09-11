@@ -27,7 +27,7 @@ payload = {
   "settings": {
     "bucket": "%s" % (bucket),
     "region": "us-east-1",
-    "role_arn": "arn:aws:iam::005956675899:role/es-snapshots-access"
+    "role_arn": "arn:aws:iam::005956675899:role/es-snapshot-access"
   }
 }
 
