@@ -10,7 +10,7 @@ jmespath==0.9.3
 pyasn1==0.4.5
 python-dateutil==2.7.5
 PyYAML==3.13
-requests==2.21.0
+requests==2.31.0
 requests-aws4auth==0.9
 rsa==3.4.2
 s3transfer==0.1.13
